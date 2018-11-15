@@ -1,0 +1,90 @@
+/* CSS for wireframe Homework
+*/
+
+/* -- * to make all element wrapped properly regardless of tag - */
+
+* {
+    /* -- adds both padding and boarder to an elements height and width*/
+    box-sizing: border-box;  
+    text-align: center;
+     
+}
+/* -- everything in the body element, will be set to these values*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+    margin: 0 auto;
+    
+}
+
+Header {
+    height: 75px;
+    padding: 20px;
+    margin-bottom: 10px;
+    background-color: #ebebeb;
+}
+
+nav {
+    height: 75px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #ebebeb;
+}
+
+
+
+section {
+    position: absolute;
+    width: 495px;
+    background-color: #ebebeb;
+    padding: 20px;
+    margin-bottom: 20px;
+    
+    
+}
+
+
+article {
+    width: 100%;
+    color: #ebebeb;
+    background: #777;
+    padding: 20px;
+    
+    
+}
+
+h1 {
+    width: 100%;
+    color: #777;
+    background: #ebebeb;
+    padding: 10px;
+    
+}
+
+p {
+     width: 100%;
+    color: #777;
+    background: #ebebeb;
+    padding: 10px;
+    
+}
+
+aside {
+    position: relative;
+    float: right;
+    width: 445;
+    height: 335px;  
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #ebebeb;
+}
+
+
+footer {
+    padding: 20px;
+    clear: both;
+    background-color: #ebebeb;
+}
