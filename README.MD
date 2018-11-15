@@ -13,7 +13,7 @@ Created Skeleton in body by adding
 with in section I added 
             article 
 with in <article> I added 
-            h1 (with an H1)
+            h1 with an H1 header
             p 
             
   *I did not use divs, or add class or Id's. I felt that in this scenerio to keep my css code clean and simple
