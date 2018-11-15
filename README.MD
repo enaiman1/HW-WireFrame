@@ -5,16 +5,16 @@ Create !DOCTYPE
 add opening and closing html,head, body
 create title with in head
 Created Skeleton in body by adding 
-        <header>, 
-        <nav>, 
-        <section>(with an H3)
-        <aside>(with an H3)
-        <footer>(with an H3)
-with in <section> I added 
-            <article> 
+        header, 
+        nav, 
+        section(with an H3)
+        aside(with an H3)
+        footer(with an H3)
+with in section I added 
+            article 
 with in <article> I added 
-            <h1> (with an H1)
-            <p> 
+            h1 (with an H1)
+            p 
             
   *I did not use divs, or add class or Id's. I felt that in this scenerio to keep my css code clean and simple
   I was able to call the tag to get my page to be set up the way I needed           
